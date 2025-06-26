@@ -55,12 +55,12 @@ const InfoItem = styled.div`
 const UserProfile = ({ user }) => {
   // Datos de ejemplo
   const userData = {
-    name: "Alexandra Pérez",
-    title: "Desarrolladora Frontend",
-    email: "alexandra@example.com",
+    name: "Cesar Montoya",
+    title: "Desarrollador Frontend",
+    email: "Cesar13luna14@gmail.com",
     joinDate: "Se unió en Enero 2022",
-    location: "Barcelona, España",
-    initials: "AP"
+    location: "Colombia,bogota",
+    initials: "CM"
   };
 
   return (
